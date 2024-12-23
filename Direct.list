@@ -593,7 +593,7 @@ DOMAIN-SUFFIX,zhuihd.com
 
 #PT站点
 DOMAIN-SUFFIX,agsvpt.com
-DOMAIN-SUFFIX,audiences.me
+## DOMAIN-SUFFIX,audiences.me ipv4干扰
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,0ff.cc
 DOMAIN-SUFFIX,hddolby.com
